@@ -16,7 +16,7 @@ import holamundowithtiers.controler.Controller;
  * @author Leticia Garcia
  * 
  */
-public class Application {
+public class Application  {
 
     /**
      * @param args the command line arguments

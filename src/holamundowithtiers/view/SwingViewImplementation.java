@@ -23,7 +23,7 @@ public class SwingViewImplementation implements View{
       
       String message = greeting;
       JOptionPane.showMessageDialog(null, message, "ERROR", JOptionPane.INFORMATION_MESSAGE);
-   
+     //Esto es un comentario
   }
   
 }

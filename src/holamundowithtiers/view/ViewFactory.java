@@ -6,7 +6,7 @@
 package holamundowithtiers.view;
 
 /**
- *
+ * Crear y devolver una view
  * @author 2dam
  */
 public class ViewFactory {
@@ -15,6 +15,7 @@ public class ViewFactory {
     public static View getView(){ //Creamos el metodo de View.
         
        // return new ViewImplementation();
-       return new SwingViewImplementation();
+     //  return new SwingViewImplementation();
+     return new JavaFXViewImplementation();
     }
 }
